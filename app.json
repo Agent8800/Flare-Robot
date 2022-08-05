@@ -114,11 +114,7 @@
          "required": false,
          "value": ""
       },
-      "DB_URI": {
-         "description": "Add your Db if you don't have one get it from elephantsql.com .",
-         "required": true,
-         "value": ""
-      },
+
       "DATABASE_URL": {
          "description": "Add your Db_URI.",
          "required": true,
@@ -188,16 +184,6 @@
        }, 
        "REDIS_URI": {
          "description": "Redis Url create one from redislabs.com.",
-         "required": true,
-         "value": ""
-       }, 
-       "APP_ID": {
-         "description": "API ID of 2nd telegram account if you dont have two accounts then use the same accounts API ID, but i recommend using 2nd accounts API ID",
-         "required": true,
-         "value": ""
-      }, 
-      "APP_HASH": {
-         "description": " API HASH of 2nd telegram account if you dont two accounts then use the same accounts API HASH, but i recommend using 2nd accounts API HASH.",
          "required": true,
          "value": ""
        }, 
